@@ -1,3 +1,6 @@
+#after execution of script run this command in shell in script directory to finish:
+# iconutil -c icns icon.iconset
+
 #!/usr/bin/env python3
 import os
 from PIL import Image
